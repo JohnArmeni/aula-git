@@ -4,6 +4,8 @@ Vamos ter uma aula de Git
 
 Como fazer um miojo:
 
-1
+1 Compre um miojo
 
-2 
+2 Coloque numa panela com água quente
+
+3 
