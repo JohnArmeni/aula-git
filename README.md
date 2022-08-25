@@ -34,3 +34,10 @@ int main(int argc, char** argv) {
 
 }
 ```
+
+```BIRL
+
+HORA DO SHOW
+    CE QUER VER ESSA PORRA? ("Hello, Monstro");
+BIRL
+```
