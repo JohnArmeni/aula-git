@@ -8,4 +8,4 @@ Como fazer um miojo:
 
 2 Coloque numa panela com água quente
 
-3 
+3 Espere ficar pronto e coma
