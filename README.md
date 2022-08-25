@@ -2,3 +2,4 @@
 
 Vamos ter uma aula de Git
 
+Como fazer um miojo:
