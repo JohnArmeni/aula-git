@@ -39,5 +39,6 @@ int main(int argc, char** argv) {
 
 HORA DO SHOW
     CE QUER VER ESSA PORRA? ("Hello, Monstro");
+    BORA CUMPADE 0;
 BIRL
 ```
