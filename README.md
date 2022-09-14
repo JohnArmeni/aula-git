@@ -1,6 +1,6 @@
 # Aula de Git na Unimar
 
-## Este reposirório foi criado con fins didáticos apenas ;)
+## Este reposirório foi criado com fins didáticos apenas ;)
 
 Vamos ter uma aula de Git
 
