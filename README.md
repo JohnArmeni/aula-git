@@ -1,5 +1,7 @@
 # Aula de Git na Unimar
 
+## Este reposirório foi criado con fins didáticos apenas ;)
+
 Vamos ter uma aula de Git
 
 Como fazer um miojo:
