@@ -1,6 +1,6 @@
 # Aula de Git na Unimar
 
-## Este reposirório foi criado com fins didáticos apenas ;)
+## Este repositório foi criado com fins didáticos apenas ;)
 
 Vamos ter uma aula de Git
 
@@ -10,7 +10,9 @@ Como fazer um miojo:
 
 2 Coloque numa panela com água quente
 
-3 Espere ficar pronto e coma
+3 Mexa bem por 3 minutos
+
+4 Espere ficar pronto e coma
 
 ``` python
 print('Hello world')
@@ -44,3 +46,15 @@ HORA DO SHOW
     BORA CUMPADE 0;
 BIRL
 ```
+
+
+# feature-1
+
+```php
+
+public function apresentar() {
+    echo "Olá mundo";
+}
+
+```
+
