@@ -1,6 +1,6 @@
 # Aula de Git na Unimar
 
-## Este reposirório foi criado com fins didáticos apenas ;)
+## Este repositório foi criado com fins didáticos apenas ;)
 
 Vamos ter uma aula de Git
 
@@ -43,4 +43,15 @@ HORA DO SHOW
     CE QUER VER ESSA PORRA? ("Hello, Monstro");
     BORA CUMPADE 0;
 BIRL
+```
+
+
+# feature-1
+
+```php
+
+public function apresentar() {
+    echo "Olá mundo";
+}
+
 ```
