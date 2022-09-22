@@ -14,6 +14,10 @@ Como fazer um miojo:
 
 4 Espere ficar pronto e coma
 
+5 Faça a avaliação do sabor
+
+6 Bom apetite
+
 ``` python
 print('Hello world')
 ```
